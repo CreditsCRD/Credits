@@ -1,3 +1,8 @@
+
+
+IMPORTANT changes in this version. "Credits" folder which cointains the wallet.dat files is renamed now to "CreditsCRD1"
+
+
 Credits - a fork of Litecoin version with random bonus blocks. Like Litecoin it uses scrypt as a proof of work scheme.
 
 Algo: Scrypt
